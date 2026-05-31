@@ -14,4 +14,4 @@ This project analyzes ecommerce sales data using Power BI.
 - Monthly Sales Trends
 
 ## Author
-Your Name
+Shaik Salima
